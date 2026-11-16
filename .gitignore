@@ -1,0 +1,6 @@
+*.old.exe
+*_new.exe
+*.pdb
+.vs/
+bin/
+obj/
