@@ -1,7 +1,11 @@
 # ⚡ AutoCopySelection for Windows
 
 <p align="center">
-  <img src="assets/hero-showcase.png" alt="AutoCopySelection Showcase" width="100%" />
+  <img src="assets/demo.gif" alt="AutoCopySelection Schematic Demo" width="100%" />
+</p>
+
+<p align="center">
+  <a href="assets/demo.webm">▶ Watch / Download High-Res Schematic WebM (assets/demo.webm)</a>
 </p>
 
 <p align="center">
